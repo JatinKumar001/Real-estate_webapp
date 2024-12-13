@@ -34,7 +34,7 @@ The frontend is located in the `Client` folder.
 
 #### Running the Frontend
 
-**To start the Vite server and run the frontend**:
+**To start the react server and run the frontend**:
    ```bash
    npm start
    ```
